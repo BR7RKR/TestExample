@@ -2,7 +2,7 @@
 
 public class SomeService
 {
-    private string veryImportantVar = "default";
+    private string veryImportantVar = "1233";
     
     public void ChangeVeryImportantVar(string someExplicitVar)
     {
